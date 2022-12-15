@@ -1,0 +1,22 @@
+.table1{
+    padding-top: 20px;
+    background-color:#968744d2;
+}
+button{
+    cursor: pointer;
+    border-radius: 10px;
+    background-color:#968744d2;
+    border: 0ch;
+    font-size: 20px;
+    height: 50px;
+    
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button:hover{
+    background-color:#887a3cd2;
+}
